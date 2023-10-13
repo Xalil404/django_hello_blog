@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['helloblog.herokuapp.com', 'localhost', 'TESTs-MacBook-Pro.local']
+ALLOWED_HOSTS = ['helloblog-eb1bdbb756c3.herokuapp.com', 'localhost', 'TESTs-MacBook-Pro.local']
 
 
 # Application definition
